@@ -1,4 +1,5 @@
 # Level Supermind Automation : Android
+the Level SuperMind app, organized by functional areas like onboarding, login, meditation sessions, user profile, subscription, and more.
 Appium-Selenium-TestNG Framework with POM structure
 Table of Contents
 Prerequisites
