@@ -98,12 +98,6 @@ This testing process follows an **Agile Methodology** to ensure continuous and i
  **Frequent Builds & Releases** – Ensuring testing is performed on updated builds.  
  **Exploratory Testing** – Conducting ad-hoc testing to uncover hidden defects.  
 
- **Documents Drive link**
- https://drive.google.com/drive/folders/1GJwZX_girwMiTizwxBinlNOFAvK7Dwky?usp=sharing 
- 
- **Explaination Video link**
-https://drive.google.com/drive/folders/1GJwZX_girwMiTizwxBinlNOFAvK7Dwky?usp=sharing
-
 
 Appium-Selenium-TestNG Framework with POM structure
 Table of Contents
